@@ -1,5 +1,5 @@
 {
-  "name": "multispinner",
+  "name": "@jswebfans/multispinner",
   "version": "0.2.1",
   "description": "Multiple simultaneous async CLI spinners",
   "main": "index.js",
@@ -25,8 +25,8 @@
     "chalk": "^1.1.1",
     "figures": "^1.4.0",
     "kind-of": "^2.0.1",
-    "lodash.clonedeep": "^3.0.2",
-    "lodash.merge": "^3.3.2",
+    "lodash.clonedeep": "^4.17.5",
+    "lodash.merge": "^4.17.5",
     "log-update": "^1.0.2"
   },
   "devDependencies": {
